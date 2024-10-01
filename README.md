@@ -2,7 +2,7 @@
 
 ## Overview
 
-**FuXss** is a Bash script designed to automate the installation of essential tools for XSS (Cross-Site Scripting) assessment and to streamline the process of collecting relevant data from a target domain. This script installs necessary Go and Python tools, gathers subdomains, and checks for vulnerabilities, generating comprehensive output files.
+**FuXss** is a Bash script designed to automate XSS (Cross-Site Scripting) assessment and to streamline the process of collecting relevant data from a target domain. This script installs necessary Go and Python tools, gathers subdomains, and checks for vulnerabilities, generating comprehensive output files.
 
 ## Features
 
